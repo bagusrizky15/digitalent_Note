@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2984375" />
+        <entry key="app/src/main/res/layout/activity_detail_catatan.xml" value="0.2682291666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.28229166666666666" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/activity_tambah_data.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/menu.xml" value="0.28229166666666666" />
       </map>
     </option>
   </component>
